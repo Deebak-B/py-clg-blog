@@ -1,0 +1,15 @@
+#aboutusHeading{
+ padding-left: 50px;
+
+ /* padding-top: 30px; */
+}
+#aboutusContainer{
+    height: fit-content;
+    justify-content: center;
+    /* background-color: #A5D7E8; */
+    padding: 30px;
+}
+#aboutusPassage{
+    padding-left: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

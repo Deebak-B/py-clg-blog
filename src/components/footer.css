@@ -1,0 +1,30 @@
+#footerContainer{
+    /* background-color: #408E91; */
+    /* padding-inline:20px; */
+    padding-top: 20px;
+}
+
+#copyright{
+    text-align: center;
+    padding: 10px;
+    background-color: #E49393;
+}
+
+#footerLinks{
+    text-decoration: none;
+    
+}
+ul{
+    list-style-type: none;
+}
+a{
+    text-transform: none;
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: white;
+}
+#linkHome,#linkAbout,#linkList{
+    text-decoration: none;
+}
